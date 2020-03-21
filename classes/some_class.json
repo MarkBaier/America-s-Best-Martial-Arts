@@ -1,0 +1,9 @@
+{
+    "title": "Some Class",
+    "duration (in minutes)": "60",
+    "age range": "7-14",
+    "description": "Some awesome class...",
+    "important info": "Bring a sword!",
+    "teacher id": "patrick",
+    "image (relative to index.html)": "/classes/images/friday_class.png"
+}

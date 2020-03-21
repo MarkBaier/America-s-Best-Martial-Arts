@@ -1,0 +1,32 @@
+{
+  "classes": {
+    "sunday": {
+      "9:00 am": "kata_hour"
+    },
+    "monday": {
+      "6:00 pm": "some_class",
+      "7:00 pm": "another_class"
+    },
+    "tuesday": {
+      "6:00 pm": "some_class",
+      "7:00 pm": "another_class"
+    },
+    "wednesday": {
+      "4:30 pm": "basics",
+      "5:15 pm": "adv",
+      "6:00 pm": "kata_half_hour",
+      "6:30 pm": "some_other_class"
+    },
+    "thursday": {
+      "6:00 pm": "some_class",
+      "7:00 pm": "another_class"
+    },
+    "friday": {
+      "6:00 pm": "patricks_class"
+    },
+    "saturday": {
+      "6:00 am": "too_early_for_me",
+      "4:00 pm": "another_class"
+    }
+  }
+}
